@@ -10,7 +10,7 @@ const path = require('path')
 ///////////////////////////////////////////////////////////////////////////////
 
 const title = `${bold(`     Edy Tama Kusumajaya`)} · edytk`
-const subtitle = `   Yogyakarta, ID · ${b(`tama@gaptek.net`)}`
+const subtitle = `   Yogyakarta, ID · ${b(`hi@et.mk`)}`
 const header = `${title}\n${subtitle}`
 
 ///////////////////////////////////////////////////////////////////////////////
@@ -19,8 +19,8 @@ const list = {
   [bold(`    Work`)]: `Life-Long Learner :)`,
   [bold(`  GitHub`)]: b(`https://github.com/edytk`),
   [bold(`LinkedIn`)]: b(`https://linkedin.com/in/edytk`),
-  [bold(` Twitter`)]: b(`https://twitter.com/_gaptek`),
-  [bold(` Website`)]: b(`https://dev.gaptek.net`),
+  [bold(` Twitter`)]: b(`https://twitter.com/tama0x1`),
+  [bold(` Website`)]: b(`https://et.mk`),
 }
 
 const renderedList = Object.keys(list)

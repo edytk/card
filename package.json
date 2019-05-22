@@ -1,9 +1,9 @@
 {
   "name": "edytk",
   "description": "npx edytk to view my digital card 🃏",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "repository": "https://github.com/edytk/card.git",
-  "author": "Edy Tama Kusuamajaya <tama@gaptek.net>",
+  "author": "Edy Tama Kusumajaya <tama@gaptek.net>",
   "main": "bin/card.js",
   "bin": {
     "edytk": "bin/card.js"
